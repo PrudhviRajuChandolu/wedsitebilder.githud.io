@@ -1,0 +1,13 @@
+h4{
+    text-align: center;
+    padding: 20px;
+}
+img{
+    width: 100%;
+}
+.card-body{
+    border-bottom: 1px solid red;
+}
+.card{
+    border-left: 1px solid red;
+}

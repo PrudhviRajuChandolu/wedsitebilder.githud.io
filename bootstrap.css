@@ -1,0 +1,47 @@
+.ctopbar{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(11, 99, 11);
+}
+.ctopbar ul li a{
+    color: #fff;
+    font-size: medium;
+    font-weight: 650;
+    padding-left: 10px;
+}
+.ctopbar ul{
+    padding-bottom: 5px;
+}
+.icons ul li a{
+    padding-left: 10px;
+}
+.icons{
+    float: right;
+}
+@media(max-width:570px)
+{
+    .icons{
+        margin: auto;
+    }
+}
+.ntopbar  ul li a{
+    color: black;
+    font-weight: 500;
+}
+p
+{
+    line-height: 27px;
+    text-align: justify;
+}
+.about h1, .courses h1{
+    font-size: 35px;
+    padding: 35px 0px;
+    padding-top: 40pxpx;
+}
+.courses h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    padding: 10px;
+}
